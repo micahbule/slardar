@@ -1,0 +1,10 @@
+{
+  "name": "slardar",
+  "version": "1.0.0",
+  "description": "An authentication module project",
+  "main": "index.js",
+  "repository": "https://github.com/micahbule/slardar",
+  "author": "Micah Andrew F. Bule",
+  "license": "MIT",
+  "private": false
+}
